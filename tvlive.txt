@@ -513,23 +513,8 @@ BTV体育休闲,http://jh.d7g.cn/tv/zx2023.php?id=408
 
 
 香港,#genre#
-翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
-翡翠台,http://66.181.39.224/ml.php?id=jade_twn
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港J2频道,http://r.jdshipin.com/Nr5jq
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
@@ -537,17 +522,14 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 
 广东,#genre#
-广东珠江,http://39.135.32.28:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-广东珠江,http://193.233.206.48:8090/live/rx1/1034/1e47225a863a415afb017eeb0188b8b0/index.m3u8
-广东珠江,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
-广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-广东珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
+广东｜体育,http://gxdl-lhs.8866.org:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东｜体育,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东｜体育,http://www.namewee.xyz/gudou.php?id=1413
 广东｜新闻,http://www.namewee.xyz/gudou.php?id=1454
 广东｜民生,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8
-广东｜民生,http://www.namewee.xyz/gudou.php?id=1455
 广东｜民生,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgg&auth=rinimabi
 广东｜影视,http://www.namewee.xyz/gudou.php?id=1458
 广东｜嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459
@@ -638,16 +620,6 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 广东｜阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
 
 央视2,#genre#
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
-CCTV1,https://pi.0472.org/live?auth=202308110958&id=cctv1
-CCTV1,http://php.17186.eu.org/ysp/cctv1.m3u8
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index.m3u8
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225573/index.m3u8?fmt=ts2hls
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226225/index.m3u8
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
@@ -658,20 +630,7 @@ CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3277508627_8225111
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1929915157_-1559215175/ott.mobaibox.com/PLTV/88888890/224/3221226316/index.m3u8?icpid=88888890&RTS=1687954142&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
-CCTV1,rtsp://115.153.245.70/PLTV/88888888/224/3221225699/iptv8040.smil
-CCTV1,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-CCTV1,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil
-CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225517/iptv7949.smil
-CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225517/iptv7949.smil
-CCTV1,http://tvmvip110.club/as.php?id=cctv1hd
-CCTV1,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/001/2000210103.m3u8
-CCTV1,http://124.232.233.6:6060/000000001901/202200010002/index.m3u8?m3u8_level=2
 CCTV1,http://183.196.25.171:808/hls/1/index.m3u8
-CCTV1,rtsp://115.153.245.70/PLTV/88888888/224/3221225517/iptv7949.smil
 
 CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
 CCTV2,https://pi.0472.org/live?auth=202308110958&id=cctv2
